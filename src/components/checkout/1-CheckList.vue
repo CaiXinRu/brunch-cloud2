@@ -266,6 +266,5 @@ tr {
   background-color: var(--color--secondary);
   color: var(--color--light-brown);
   box-shadow: 5px 5px 0px var(--color--primary);
-
 }
 </style>
